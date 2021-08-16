@@ -26,3 +26,8 @@ ex. @08Z
 
 This project is licensed under the [MIT] License - see the LICENSE.md file for details
 
+
+
+![giphy](https://user-images.githubusercontent.com/88425310/129587218-dc4c8d0b-7cb8-40dc-ad3d-bdffa8539058.gif)
+
+
