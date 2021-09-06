@@ -7,7 +7,7 @@ The purpose of the color game is to find the right color without getting distrac
 ### Installing
 
 ```
-git clone https://github.com/08Z/Color-Game.git
+git clone https://github.com/Periyot/Color-Game.git
 ```
 * After downloading the repository all you have to do is open it
 
