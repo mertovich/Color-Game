@@ -11,11 +11,6 @@ git clone https://github.com/Periyot/Color-Game.git
 ```
 * After downloading the repository all you have to do is open it
 
-## Authors
-
-
-
-ex. @08Z
 
 ## Version History
 
